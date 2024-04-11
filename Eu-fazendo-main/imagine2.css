@@ -1,0 +1,23 @@
+@import url('https://fonts.cdnfonts.com/css/tajawal');
+                
+
+body{
+    background-image: url(logo.png); background-repeat: no-repeat; background-position: center; background-position-y: -50px; 
+}
+.caralho{
+    border-radius: 20px; 
+    position: absolute;
+    left: center;
+    right: center;
+    top: 20%;
+    height: 400px;
+}
+.porra{
+    font-family: 'Tajawal', sans-serif;
+    top: 18%;
+    position: absolute;
+    left: 43%;
+    right: 2%;
+    font-size: 30px;
+    text-align: justify;
+}
