@@ -1,0 +1,35 @@
+@import url('https://fonts.cdnfonts.com/css/tajawal');
+                
+
+body{
+    background-image: url(logo.png); background-repeat: no-repeat; background-position: center; background-position-y: -50px; 
+}
+.caralho{
+    border-radius: 20px; 
+    position: absolute;
+    left: center;
+    right: center;
+    top: 20%;
+    height: 400px;
+}
+.porra{
+    font-family: 'Tajawal', sans-serif;
+    top: 18%;
+    position: absolute;
+    left: 43%;
+    right: 2%;
+    font-size: 30px;
+    text-align: justify;
+}
+.botao  {
+    background-image: url(album1.jpeg);     
+    position:absolute;
+    margin:0px;
+    padding: 110px;
+    background-repeat: no-repeat;
+    background-color: black;
+    position: absolute;
+    left: 50%;
+    right: 0%;
+    top: 75%;
+}   
