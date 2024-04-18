@@ -21,15 +21,17 @@ body{
     font-size: 30px;
     text-align: justify;
 }
-.botao  {
-    background-image: url(album1.jpeg);     
-    position:absolute;
-    margin:0px;
+.botao{
+    background-size: 225px;
+    background-image: url(todosalbums.jpg);
+    margin: 0px;
     padding: 110px;
     background-repeat: no-repeat;
-    background-color: black;
-    position: absolute;
-    left: 50%;
-    right: 0%;
-    top: 75%;
-}   
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 80px;
+    transition: 5s;
+}
+
+
